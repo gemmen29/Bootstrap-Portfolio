@@ -4,9 +4,7 @@
 
 > This is my portfolio project.
 
-![screenshot](./images/app_screenshot3.png)
-![screenshot](./images/app_screenshot.png)
-![screenshot](./images/app_screenshot2.png)
+![screenshot](./images/Screenshot-Portfolio.png)
 
 Additional description about the project and its features.
 
@@ -15,10 +13,11 @@ Additional description about the project and its features.
 - HTML
 - CSS
 - Linters
+- Bootstrap
 
 ## Live Demo
 
-[Link](https://gemmen29.github.io/Portfolio/)
+[Link](https://gemmen29.github.io/Bootstrap-Portfolio/)
 
 
 ## Getting Started
