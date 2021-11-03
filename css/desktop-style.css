@@ -12,12 +12,10 @@
 
   .navbar-light .navbar-nav .nav-link.active::after {
     content: "";
-    position: absolute;
-    left: 37%;
-    top: 38px;
-    width: 29px;
-    height: 2px;
-    background: #1a2236;
+    display: block; 
+    width: 80%;
+    padding-top: 5px;
+    border-bottom: 3px solid #1a2236;
   }
 
   .hero .container-fluid {
