@@ -19,11 +19,11 @@
   }
 
   .hero .container-fluid {
-    height: calc(100vh - 55px);
-    background-image: url("/images/Hero-bg.svg");
+    height: 100vh;
+    background-image: url("../images/Hero-bg.png");
     background-repeat: no-repeat;
     background-position: right;
-    background-size: 50%;
+    background-size: 50% 100%;
   }
 
   .hero h1 {
